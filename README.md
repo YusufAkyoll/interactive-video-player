@@ -1,6 +1,6 @@
 # Interactive Video Lesson Player
 
-An advanced, interactive video lesson player component built with React, TypeScript, Tailwind CSS, and Framer Motion. Designed for e-learning platforms and online courses, it offers seamless touch and keyboard controls, integrated transcript, and customizable UI animations.
+An advanced, interactive video lesson player component built in 5 hours for an AI-Training project with React, TypeScript, Tailwind CSS, and Framer Motion in SINGLE .tsx file. It offers seamless touch and keyboard controls, integrated transcript, and customizable UI animations.
 
 ## Technologies
 
